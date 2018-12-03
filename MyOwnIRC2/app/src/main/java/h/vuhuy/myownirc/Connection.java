@@ -9,7 +9,9 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import java.util.Arrays;
 import java.util.List;
-
+/* Created by Huy and ConcernGuy
+   huybv1998@gmail.com
+ */
 public class Connection {
 
     String host;
